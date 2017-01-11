@@ -1,0 +1,44 @@
+{
+"Zvierata":[
+      {
+        "typ":"Kon",
+        "druh":"Domace", 
+        "zvuk":"Nihaha"
+      },
+      {
+        "typ":"Kozicka",
+        "druh":"Domace", 
+        "zvuk":"Mee" 
+      },
+      {
+        "typ":"Macka",
+        "druh":"Domace", 
+        "zvuk":"Mòauuu"
+      },
+      {
+        "typ":"Ovecka",
+        "druh":"Domace", 
+        "zvuk":"Bééé"
+      },
+      {
+        "typ":"Pes",
+        "druh":"Domace", 
+        "zvuk":"Hafff"
+      },
+      {
+        "typ":"Lev",
+        "druh":"Divoke", 
+        "zvuk":"Roooar"
+      },
+      {
+        "typ":"Puma",
+        "druh":"Divoke", 
+        "zvuk":"Growl"
+      },
+      {
+        "typ":"Zirafa",
+        "druh":"Divoke", 
+        "zvuk":"Bleat"
+      }
+]
+}
